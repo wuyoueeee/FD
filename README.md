@@ -1,10 +1,9 @@
 # 基于深度学习的火焰|烟雾|火灾识别系统（YOLO）
 
 **项目获取地址：**[https://mbd.pub/o/bread/YZWVlJ9vZg==](https://mbd.pub/o/bread/YZWVlJ9vZg==)
-@[TOC]
 ## 项目视频
 
-[video(video-M3LrMte4-1751992825232)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=114818551913168)(image-https://i-blog.csdnimg.cn/img_convert/8810db8c8be69ef9764bd1ad0c237209.jpeg)(title-基于深度学习的火焰|烟雾|火灾识别系统（YOLO）)]
+[https://player.bilibili.com/player.html?aid=114818551913168)]
 **项目获取地址：**[https://mbd.pub/o/bread/YZWVlJ9vZg==](https://mbd.pub/o/bread/YZWVlJ9vZg==)
 ## 项目概述
 
